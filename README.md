@@ -16,6 +16,8 @@ Optimizer : RMSProp
 LR Decay : Polynomial Decay
 Loss function : Cross Entropy
 
+To visualize training results on Tensorboard : tensorboard --logdir=runs_mobnet2 --host=0.0.0.0 --port=6006 
+
 # :lady_beetle: Reporting Bugs
 
 Teamwork is the key, please report at (https://github.com/Zac-not-Zack/MobileNetV1_DL_CSC8607/issues) if you come across any bug.

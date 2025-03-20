@@ -13,7 +13,9 @@ Recreate the MobileNet V1 model which is based on Depthwise convolution from scr
 The DL library used : PyTorch
 
 Optimizer : RMSProp
+
 LR Decay : Polynomial Decay
+
 Loss function : Cross Entropy
 
 To visualize training results on Tensorboard : tensorboard --logdir=runs_mobnet2 --host=0.0.0.0 --port=6006 

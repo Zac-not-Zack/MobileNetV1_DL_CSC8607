@@ -1,6 +1,7 @@
 # 🤖 Projet DL : Building MobileNet V1 from scratch 📇
 
 Contributor : WONG Hoe Ziet (TSP MAIA 2025 🐝)
+
 Reference : https://arxiv.org/abs/1704.04861
 
 # 🔡 Dataset
